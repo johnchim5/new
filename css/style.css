@@ -1,0 +1,60 @@
+body{ 
+background-color: darkgreen;
+	}
+	.intro{
+		width: 1350px;
+		background-repeat: no-repeat;
+		}
+	.subheading{
+		font-weight: bold; 
+        background-color: blue;
+		font-style: italic; 
+		font-size: 50px;
+	}
+	.green{
+		 height:150px; 
+		 width:180px;
+		 border-radius: 50px; 
+		 border:1px solid black; 
+		 display: inline;
+	}
+	.data{
+		font-weight: bold;
+		 font-style: italic;  
+		 width: 1000px;
+		 font-size: 45px;
+		 background-color: palegreen; 
+	 }
+	 .new{
+	 	font-weight: bold; 
+	 	font-style: italic; 
+	 	font-size: 30px;
+	 }
+
+	.skill_name{
+		font-weight: bold; 
+		font-style: italic; 
+		font-size: 45px;
+		color: black;
+		width: 1000px;
+		background-color: palegreen; 
+	}
+	.jobdesc{
+		font-weight: bold; 
+        font-style: italic; 
+	    font-size: 40px;
+	    width: 800px;
+	    background-color: palegreen; 
+	}
+	.icon{ 
+		width:30px; 
+		display: inline;
+	}
+	.dead{
+		 font-weight: bold; 
+		 font-style: italic; 
+		 font-size: 30px; 
+		 width: 150px; 
+		 display: inline;
+		 background-color: palegreen; 
+	}
